@@ -20,6 +20,8 @@
 
 <span align="center">
   
+  <hr>
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rademenes16&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rademenes16&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rademenes16&theme=github)
