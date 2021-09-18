@@ -1,7 +1,7 @@
-👋 Hi, I’m @Rademenes16. I'm self taught front-end developer.   
-
 ![](https://komarev.com/ghpvc/?username=Rademenes16&color=blueviolet&style=flat-square)
 
+
+👋 Hi, I’m @Rademenes16. I'm self taught front-end developer.   
 
 <ul>
   <li>🌀 My blog: https://rademenes16.great-site.net/</li>
