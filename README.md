@@ -26,7 +26,7 @@
   <hr>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rademenes16&show_icons=true&theme=radical&include_all_commits&count_private&card_width=100) <img align="right" alt="city" width="40%" height="100%" src="https://i.imgur.com/PfhefoC.gif">
-  <img align="left" alt="rain" width="55%" height="470" src="https://i.imgur.com/8hh8lfD.gif">
+  <img align="left" alt="rain" width="55%" height="500" src="https://i.imgur.com/8hh8lfD.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rademenes16&langs_count=3&theme=radical&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <hr>
