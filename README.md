@@ -24,8 +24,11 @@
 <span align="center">
   
   <hr>
+
                                                                                                      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rademenes16&show_icons=true&theme=radical&include_all_commits&count_private&card_width=100) 
+
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rademenes16&bg_color=black&line=FF106E&point=51DFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   | <img align="right" alt="city" width="100%" height="100%" src="https://i.imgur.com/QunA3En.jpeg">  |   <img align="left" alt="rain" width="100%" height="100%" src="https://i.imgur.com/8hh8lfD.gif"> |
 | :---         |          ---: |
   
@@ -35,7 +38,7 @@
   
 <hr>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rademenes16&theme=radical)](https://git.io/streak-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rademenes16&show_icons=true&theme=radical&include_all_commits&count_private&card_width=100) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rademenes16&theme=radical)](https://git.io/streak-stats)
 </span>
          
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
