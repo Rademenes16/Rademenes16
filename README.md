@@ -58,4 +58,4 @@
   <hr>
   
   ![](https://komarev.com/ghpvc/?username=Rademenes16&color=blueviolet&style=flat-square)
-
+![](https://img.shields.io/badge/Probability-96%25-brightgreen?style=flat-square&=appveyor)
