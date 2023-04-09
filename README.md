@@ -1,61 +1,31 @@
-<img src="https://i.imgur.com/H7zLniE.gif" width="100%" height="40%"> 
+<p align="center">
+
+<img width="500" height="180" src="https://2.bp.blogspot.com/-CmCVy5BF1Hg/T5w5DO0x5VI/AAAAAAAAAbs/QIBnYJ-X-bU/s320/WELCOME+FIRE+GIF.png">
+
+</p>
+
+![bio](https://i.imgur.com/gSiptTZ.png)
 
 
-<span align="center">
-  
-👋 I'm self taught front-end developer.   
+| ![](https://web.badges.world/badges/humor/admin100.gif)      | ![](https://web.badges.world/badges/hosts/you.png) | ![](https://web.badges.world/badges/memes/keepout.png)     |  ![](https://web.badges.world/badges/websites/metafilter.gif)   | ![](https://web.badges.world/badges/other/natlgeo.gif)        | ![](https://web.badges.world/badges/other/give_blood.gif)      |
+| :---        |    :----:   |    :----:     | :----:        |    :----:   |          ---: |
+| ![](https://web.badges.world/badges/websites/meetup_entrepreneur.gif)      | ![](https://web.badges.world/badges/other/ikeajunkie3.gif)       | ![](https://web.badges.world/badges/operated/xp(3).gif)   | ![](https://web.badges.world/badges/other/luvsoaps.gif)   | ![](https://web.badges.world/badges/other/netflix.gif)        | ![](https://web.badges.world/badges/other/nospam.gif)      |
+| ![](https://web.badges.world/badges/websites/meetup_gamedev.gif)      | ![](https://web.badges.world/badges/other/badinlatin.png)       | ![](https://web.badges.world/badges/politics/freespeech.gif)   | ![](https://web.badges.world/badges/other/Od_80x15_red_green.png)   | ![](https://web.badges.world/badges/geography/pl.gif)        | ![](https://web.badges.world/badges/websites/space.gif)      |
+| ![](https://web.badges.world/badges/websites/meetup_linux.gif)      | ![](https://web.badges.world/badges/other/mars.gif)       | ![](https://web.badges.world/badges/politics/pisihate.png)   | ![](https://web.badges.world/badges/programs/blender_bouton.png)   | ![](https://web.badges.world/badges/programs/buttonflash.gif)        | ![](https://web.badges.world/badges/humor/meh100.png)      |
+| ![](https://web.badges.world/badges/websites/meetup_webdesign.gif)      | ![](https://web.badges.world/badges/feeds/vmware.png)       | ![](https://web.badges.world/badges/food/coke.png)   | ![](https://web.badges.world/badges/birthmonth/libra2.gif)   | ![](https://web.badges.world/badges/other/nosmoking_copy1.png)        | ![](https://web.badges.world/badges/websites/stopie.png)      |
+| ![](https://web.badges.world/badges/websites/meetup_ai.gif)      | ![](https://web.badges.world/badges/websites/reportufo.gif)       | ![](https://web.badges.world/badges/websites/logitech.gif)   | ![](https://web.badges.world/badges/programs/7z_jt2.gif)   | ![](https://web.badges.world/badges/memes/escape.gif)        | ![](https://web.badges.world/badges/memes/rs.geekcode.png)      |
+| ![](https://web.badges.world/badges/operated/php_powered.png)      | ![](https://web.badges.world/badges/geography/europe_copy1.png)       | ![](https://web.badges.world/badges/games/ban.ea.png)   | ![](https://web.badges.world/badges/feeds/feedicons.png)   | ![](https://web.badges.world/badges/contact/Gmail-80x15.gif)        | ![](https://web.badges.world/badges/blogs/rubored006600009900green.png)      |
 
-</span>
+<a href="http://www.nerdtests.com/ft_nq.php">
+<img src="https://i.imgur.com/bFaN76C.png" alt="I am nerdier than 100% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and talk on the nerd forum!"></a>
 
-<ul><p>👇About me:👇</p>
-  <li>🎨 Innovative website designer</li>
-  <li>📈 Motivated programmer</li>
-  <li>💎 Creative 3D modeller</li>
-  <li>📚 Determined learner</li>
-  <li>🖥 Successful app developer</li>
-  <li>🌀 My blog: https://rademenes16.great-site.net/</li>
-</ul>
-<span align="center">
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+---
 
-  </span>
-  
-<span align="center">
-  
-  <hr>
 
-                                                                                                     
+$${\color{lightgreen}Visitor \space Count:}$$
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rademenes16&bg_color=black&line=FF106E&point=51DFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
 
-  | <img align="right" alt="city" width="100%" height="100%" src="https://i.imgur.com/QunA3En.jpeg">  |   <img align="left" alt="rain" width="100%" height="100%" src="https://i.imgur.com/8hh8lfD.gif"> |
-| :---         |          ---: |
-  
+<img width="300" height="80" src="https://profile-counter.glitch.me/Rademenes16/count.svg">
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rademenes16&langs_count=3&theme=radical&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<hr>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rademenes16&show_icons=true&theme=radical&include_all_commits&count_private&card_width=100) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rademenes16&theme=radical)](https://git.io/streak-stats)
-</span>
-         
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
-
-<hr>
-<span align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0069&vCenter=false&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0069&vCenter=false&lines=Operating+System%3A)](https://git.io/typing-svg)
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50">
-</span>
-  
-  <hr>
-  
-  ![](https://komarev.com/ghpvc/?username=Rademenes16&color=blueviolet&style=flat-square)
-![](https://img.shields.io/badge/Probability-96%25-brightgreen?style=flat-square&=appveyor)
+</p>
