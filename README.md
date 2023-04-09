@@ -4,8 +4,8 @@
 
 </p>
 
-![bio](https://i.imgur.com/gSiptTZ.png)
 
+<img width="1000" height="1100" src="https://i.imgur.com/gSiptTZ.png">
 
 | ![](https://web.badges.world/badges/humor/admin100.gif)      | ![](https://web.badges.world/badges/hosts/you.png) | ![](https://web.badges.world/badges/memes/keepout.png)     |  ![](https://web.badges.world/badges/websites/metafilter.gif)   | ![](https://web.badges.world/badges/other/natlgeo.gif)        | ![](https://web.badges.world/badges/other/give_blood.gif)      |
 | :---        |    :----:   |    :----:     | :----:        |    :----:   |          ---: |
